@@ -1,1 +1,1 @@
-# Car-Comparison-dashboard
+# Hospital Management System
